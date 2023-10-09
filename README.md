@@ -18,3 +18,5 @@ To get the project up and running I followed these steps:
 - HTML
 - CSS
 - Javascript (Vanilla)
+- Node.js
+- Express.js
